@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SilverlightUploader">
+</Property><Property Name="Solution File" Value="D:\Code\Pro Silverlight 4 in VB\Chapter18\SilverlightUploader\SilverlightUploader.sln">
+</Property><Property Name="Date" Value="Wednesday, August 25, 2010">
+</Property><Property Name="Time" Value="8:27 AM">
+</Property></Properties><Event ErrorLevel="0" Project="SilverlightUploader" Source="SilverlightUploader\SilverlightUploader.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SilverlightUploader" Source="SilverlightUploader\SilverlightUploader.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SilverlightUploader.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SilverlightUploader.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SilverlightUploader" Source="SilverlightUploader\SilverlightUploader.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
